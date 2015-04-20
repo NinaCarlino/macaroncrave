@@ -1,0 +1,39 @@
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+.parallax-slider {
+    min-height: 900px;
+    background: transparent;
+}
+.parallax-container {
+    min-height: 300px;
+    padding-top: 30px;
+    color: #e3769f;
+    text-align: center;
+}
+.adjust {
+    margin: 180px 0px;
+    text-align: center;
+}
+.circle {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.3);
+    padding: 80px;
+    margin: 20px;
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+}
+
+h1 {
+    font-size: 100px;
+    font-family: 'Lobster', cursive;
+}
+h2 {
+    font-size: 50px;
+    color: #e683c2;
+}
+
