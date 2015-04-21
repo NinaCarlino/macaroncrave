@@ -12,8 +12,12 @@
     color: #e3769f;
     text-align: center;
 }
-.adjust {
-    margin: 180px 0px;
+.adjust-one {
+    margin: 150px 0px;
+    text-align: center;
+}
+.adjust-two {
+    margin: 80px 0px;
     text-align: center;
 }
 .circle {
