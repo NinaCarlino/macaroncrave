@@ -13,17 +13,16 @@
     }
     .adjust-one {
     margin: 80px 0px;
-    text-align: center;
     }
 }
-@media (max-width: 500px) {
+@media (max-width: 499px) {
     .parallax-slider {
       min-height: 250px;
       background: transparent;
     }
     .adjust-one {
     margin: 30px 0px;
-    text-align: center;
+
     }
 }
 .parallax-container {
@@ -75,7 +74,7 @@
         height: auto;
     }
 }
-@media (max-width: 500px) {
+@media (max-width: 499px) {
     .center {
     text-align: center;
     padding-top: 80px;
@@ -92,7 +91,7 @@
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 499px) {
     .center-two {
     text-align: center;
     }
@@ -112,7 +111,7 @@ p {
     color: #f79ed7;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 499px) {
     h1 {
         font-size: 40px;
     }
@@ -120,7 +119,7 @@ p {
         font-size: 20px;
     }
 }
-@media (min-width: 500px) and (max-width: 900px) {
+@media (min-width: 500px) and (max-width: 800px) {
     h1 {
         font-size: 70px;
     }
@@ -128,3 +127,4 @@ p {
         font-size: 40px;
     }
 }
+
