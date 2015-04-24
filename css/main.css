@@ -17,7 +17,7 @@
 }
 @media (max-width: 499px) {
     .parallax-slider {
-      min-height: 250px;
+      min-height: 300px;
       background: transparent;
     }
     .adjust-one {
@@ -30,6 +30,12 @@
     padding-top: 30px;
     color: #e3769f;
     text-align: center;
+}
+@media (max-width: 499px) {
+    .parallax-container {
+    min-height: 200px;
+    padding-top: 30px;
+    }
 }
 .adjust-one {
     margin: 150px 0px;
